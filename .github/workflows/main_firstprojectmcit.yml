@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'FirstProjectMCIT'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_999EE747830D4B0CB6F21AB2ABD1EEDF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_68230306162B4BA198441D85D8178DEE }}
